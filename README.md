@@ -1,8 +1,8 @@
-\# Credit Card Fraud Detection Capstone Project
+\Credit Card Fraud Detection Capstone Project
 
 
 
-\## 1. Project Objective
+\1. Project Objective
 
 
 
@@ -10,7 +10,7 @@ The goal of this project is to develop and compare several machine learning mode
 
 
 
-\## 2. Dataset
+\2. Dataset
 
 
 
@@ -18,7 +18,7 @@ This project utilizes the \*\*Credit Card Fraud Detection\*\* dataset from Kaggl
 
 
 
-\- \*\*Link:\*\* \(https://www.kaggle.com/datasets/bhavyajha04/credit-card-dataset)
+\- \*\*Link:\*\* \(https://www.kaggle.com/datasets/bhavyajha04/credit-card-dataset)\
 \- \*\*Content:\*\* The dataset consists of 284,807 transactions, of which only 492 are fraudulent. For confidentiality, the original features have been transformed via Principal Component Analysis (PCA) into 28 numerical features (`V1` to `V28`). The only features not anonymized are `Time` and `Amount`.
 
 
