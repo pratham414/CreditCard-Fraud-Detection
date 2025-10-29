@@ -18,8 +18,8 @@ This project utilizes the \*\*Credit Card Fraud Detection\*\* dataset from Kaggl
 
 
 
-\- \*\*Link:\*\* \[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-
+\- \*\*Link:\*\* \[[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+](https://www.kaggle.com/datasets/bhavyajha04/credit-card-dataset)
 \- \*\*Content:\*\* The dataset consists of 284,807 transactions, of which only 492 are fraudulent. For confidentiality, the original features have been transformed via Principal Component Analysis (PCA) into 28 numerical features (`V1` to `V28`). The only features not anonymized are `Time` and `Amount`.
 
 
